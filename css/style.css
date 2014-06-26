@@ -4,6 +4,7 @@ h1 {
 	font-family: 'Arimo', sans-serif;
 	font-weight: 700;
 	padding-left: 15px;
+	text-align: center;
 }
 
 h2 {
@@ -18,9 +19,15 @@ p {
 	display: none;
 }
 
+.row {
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
 .question {
 	border: solid;
 	border-color: white;
+	border-width: thick;
 }
 
 .blue {
