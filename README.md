@@ -1,5 +1,5 @@
-P1 Assignment for Dynamic Web Applications
-==========================================
+P1 for Dynamic Web Applications
+===============================
 
 Description
 -----------
