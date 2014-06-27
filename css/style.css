@@ -4,6 +4,7 @@ h1 {
 	font-family: 'Arimo', sans-serif;
 	font-weight: 700;
 	padding-left: 15px;
+	padding-right: 15px;
 	text-align: center;
 }
 
@@ -17,6 +18,14 @@ h2 {
 p {
 	font-family: 'Open Sans', sans-serif;
 	display: none;
+}
+
+.primarytext {
+	margin-bottom: 0;
+}
+
+.secondarytext {
+	margin-top: 0;
 }
 
 .row {
