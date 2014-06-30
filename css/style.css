@@ -13,11 +13,27 @@ h2 {
 	font-weight: 400;
 	display: inline-block;
 	width: 95%;
+	margin: 5px 0px 5px 0px;
 }
 
 p {
 	font-family: 'Open Sans', sans-serif;
 	display: none;
+}
+
+img {
+	width: 94%;
+	padding-bottom: 400px;
+}
+
+.picture {
+	display: inline-block;
+	float: left;
+}
+
+.container-fluid {
+	display: inline-block;
+	float: left;
 }
 
 .primarytext {
