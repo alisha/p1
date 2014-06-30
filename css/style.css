@@ -22,8 +22,8 @@ p {
 }
 
 img {
-	width: 84%;
-	margin-left: 40px;
+	width: 77%;
+	margin-left: 55px;
 }
 
 .primarytext {
@@ -47,7 +47,6 @@ img {
 	border: solid;
 	border-color: white;
 	border-width: thick;
-	height: 50%;
 }
 
 .blue {
