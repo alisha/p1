@@ -22,18 +22,8 @@ p {
 }
 
 img {
-	width: 94%;
-	padding-bottom: 400px;
-}
-
-.picture {
-	display: inline-block;
-	float: left;
-}
-
-.container-fluid {
-	display: inline-block;
-	float: left;
+	width: 84%;
+	margin-left: 40px;
 }
 
 .primarytext {
@@ -49,10 +39,15 @@ img {
 	padding-right: 7px;
 }
 
+.col-wrapper {
+	padding: 0;
+}
+
 .question {
 	border: solid;
 	border-color: white;
 	border-width: thick;
+	height: 50%;
 }
 
 .blue {
