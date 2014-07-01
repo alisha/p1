@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
 	/* Toggle text */
 	$('.glyphicon').on('click', function() {
