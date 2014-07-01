@@ -7,7 +7,8 @@ This is a website that introduces myself (highlighting my programming background
 
 Live URL
 --------
-[p1-alisha.gopagoda.com/](http://p1-alisha.gopagoda.com/)
+Pagoda URL: [p1-alisha.gopagoda.com/](http://p1-alisha.gopagoda.com/)
+PagodaBox was having some problems loading pages and deploying code, so if the above url does not work, please see the [GitHub Pages URL](www.alishaukani.com/p1)
 
 Notes
 -----
